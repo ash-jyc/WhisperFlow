@@ -1,1 +1,0 @@
-zsh: no such file or directory: ./build/bin/whisper_streaming_mic
